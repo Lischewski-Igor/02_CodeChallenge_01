@@ -32,32 +32,3 @@ console.log(typeof zahl2);
 summe = zahl1 + zahl2;
 console.log("Die Summe ist: " + summe);
 
-
-
-/*let zahl1, zahl2, summe;
-zahl1 = prompt("Bitte geben sie eine Zahl ein!");
-zahl2 = prompt("Beitte geben sie eine Zahl ein!"); 
-console.log(zahl1 + " + "  + zahl2);
-
-summe = zahl1 + zahl2;
-console.log("Summe: " + summe);*/
-
-
-/*let zahl1, zahl2, summe;
-zahl1 = prompt("Bitte geben sie eine Zahl ein!");
-zahl2 = prompt("Beitte geben sie eine Zahl ein!"); 
-console.log(zahl1 + " + "  + zahl2);
-
-summe = parseInt(zahl1) + parseInt(zahl2);
-console.log("Summe: " + summe); */
-
-
-
-/*let zahl1, zahl2, summe, division;
-zahl1 = prompt("Bitte geben sie eine Zahl ein!");
-division = prompt("Bitte gebe sie eine Division ein!");
-zahl2 = prompt("Beitte geben sie eine Zahl ein!"); 
-console.log(zahl1 + division + zahl2);
-summe = parseInt(zahl1) + (division) +  parseInt(zahl2);
-
-console.log("Summe: " + summe);*/
